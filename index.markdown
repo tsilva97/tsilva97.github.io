@@ -4,3 +4,9 @@
 
 layout: home
 ---
+
+# Site
+
+## S
+
+! [My foto](foto.jpg)
